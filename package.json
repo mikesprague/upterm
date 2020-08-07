@@ -32,7 +32,7 @@
     "fs-extra": "4.0.0",
     "immutable": "3.8.1",
     "klaw": "2.0.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mode-to-permissions": "0.0.2",
     "node-ansiparser": "2.2.0",
     "node-pty": "0.6.10",
