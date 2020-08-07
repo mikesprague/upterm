@@ -59,7 +59,7 @@
     "cpx": "1.5.0",
     "cross-env": "5.0.1",
     "devtron": "1.4.0",
-    "electron": "1.7.2",
+    "electron": "9.2.0",
     "electron-builder": "19.13.0",
     "electron-mocha": "4.0.0",
     "enzyme": "2.9.1",
